@@ -184,7 +184,7 @@ color: #161A2B;
     justify-content: center;
     align-items: center;
 
-    background-image: url(./img/backg.png);
+    background-image: url(/img/backg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
